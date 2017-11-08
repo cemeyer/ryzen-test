@@ -1,5 +1,5 @@
 # ryzen-test
-Script to reproduce randomly crashing processes under load on AMD Ryzen processors on _Ubuntu_ 17.04.
+Script to reproduce randomly crashing processes under load on AMD Ryzen processors on FreeBSD.
 
 # Try it
 Run
